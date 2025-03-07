@@ -1,0 +1,10 @@
+.env
+node_modules/
+dist/ 
+doc/
+.specstory/
+.SourceSageignore
+doc/
+.SourceSageAssets/
+.cursorignore
+.cursorrules
