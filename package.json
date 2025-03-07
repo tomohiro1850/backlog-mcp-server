@@ -1,6 +1,6 @@
 {
   "name": "@tmhr1850/backlog-mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Backlog APIへのアクセスを提供するMCPサーバー",
   "main": "dist/server.js",
   "type": "module",
