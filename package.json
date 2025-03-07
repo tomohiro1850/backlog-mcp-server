@@ -5,7 +5,7 @@
   "main": "dist/server.js",
   "type": "module",
   "bin": {
-    "backlog-mcp-server": "./dist/server.js"
+    "backlog-mcp-server": "dist/server.js"
   },
   "scripts": {
     "build": "tsc",
@@ -43,6 +43,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tomohiro1850/backlog-mcp-server.git"
+    "url": "git+https://github.com/tomohiro1850/backlog-mcp-server.git"
   }
 }
