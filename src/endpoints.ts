@@ -42,7 +42,7 @@ export const endpoints: BacklogEndpoint[] = [
     path: "issues/{issueId}",
     method: "GET",
     schema: z.object({
-      issueId: z.number()
+      issueId: z.string()
     }).strict(),
     type: "tool"
   },
