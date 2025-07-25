@@ -2,10 +2,14 @@
 
 Backlog API へのアクセスを提供する MCP サーバーです。プロジェクト管理、課題追跡、ファイル操作などの機能を利用できます。
 
+<a href="https://glama.ai/mcp/servers/@tmhr1850/backlog-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@tmhr1850/backlog-mcp-server/badge" alt="Backlog Server MCP server" />
+</a>
+
 ## 機能
 
 - **プロジェクト管理**: プロジェクト一覧の取得、詳細情報の閲覧
-- **課題管理**: 課題の作成、更新、検索、コメント追加
+- **課題管理**:課題の作成、更新、検索、コメント追加
 - **ユーザー管理**: ユーザー情報の取得
 - **ファイル操作**: 添付ファイルの管理
 - **コメント機能**: 課題へのコメント追加
